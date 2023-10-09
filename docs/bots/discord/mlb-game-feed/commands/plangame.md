@@ -3,7 +3,7 @@ title: /plangame Command
 description: Description, usage, and examples about the /plangame command for the MLB Game Feed Discord bot.
 ---
 
-# /plangame Command
+# `/plangame` Command
 
 The `/plangame` command allows users to "plan" a game to run. Games can be picked up to 25 games in advance, with options to make a thread, support for forum channels, ability to make an event, and buttons to view the lineup, and more.
 

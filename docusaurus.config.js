@@ -67,8 +67,8 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'indexSidebar',
+            type: 'doc',
+            docId: 'index',
             position: 'left',
             label: 'Home',
           },
@@ -122,7 +122,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Chew/ChewHelp',
               },
             ],
           },

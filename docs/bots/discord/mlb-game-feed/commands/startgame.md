@@ -3,7 +3,7 @@ title: /startgame Command
 description: Description, usage, and examples for the /startgame command for the MLB Game Feed Discord bot
 ---
 
-# /startgame Command
+# `/startgame` Command
 
 This command starts an actively playing game.
 

@@ -3,7 +3,7 @@ title: /config Command
 description: Description, usage, and examples of the config command for the MLB Game Feed Discord bot.
 ---
 
-# /config Command
+# `/config` Command
 
 The `/config` command allows you to modify config options for the bot per-channel/thread. As of now, there are 4 options.
 
