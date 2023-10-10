@@ -5,8 +5,11 @@ description: The main page for Chewbotcca for Discord
 
 # Chewbotcca for Discord
 
-> This site has documentation for the bot and its commands. To learn about his history, see the [page on ChewWiki](https://chew.wiki/view/Chewbotcca_Discord_Bot).
-{.is-info}
+:::info
+
+This site has documentation for the bot and its commands. To learn about his history, see the [page on ChewWiki](https://chew.wiki/view/Chewbotcca_Discord_Bot).
+
+:::
 
 Chewbotcca for Discord is back and better than ever! 
 It is completely re-written in Java using the JDA Discord API library.

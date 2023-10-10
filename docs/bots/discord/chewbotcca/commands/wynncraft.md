@@ -1,5 +1,5 @@
 ---
-title: Wynncraft Command
+title: /wynncraft
 description: Breakdown and description for the Wynncraft command for Chewbotcca Discord bot
 ---
 
@@ -17,13 +17,13 @@ For guilds, only a single page of basic information is shown. A button to view g
 
 ## Arguments
 
-| Name | Type | Kind | Description |
-|------|------|------|-------------|
-| `query` | `String` | Required | The player or guild to get.
+| Name    | Type     | Kind     | Description                 |
+|---------|----------|----------|-----------------------------|
+| `query` | `String` | Required | The player or guild to get. |
 
 ## Permissions
 
-No special permissions are required for users or bots, but server owners may modify command priviledges per Discord's own settings.
+No special permissions are required for users or bots, but server owners may modify command privileges per Discord's own settings.
 
 ## Examples
 

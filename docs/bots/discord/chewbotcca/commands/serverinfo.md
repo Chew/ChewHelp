@@ -1,5 +1,5 @@
 ---
-title: Serverinfo Command
+title: /serverinfo
 description: Breakdown and description for the serverinfo command for the Chewbotcca Discord bot
 ---
 
@@ -21,10 +21,10 @@ This sub-command lists all the roles in the server. The response is a paginator 
 
 ### Arguments
 
-| Name | Type | Kind | Description |
-|------|------|------|-------------|
-| `display_role` | `boolean` | Optional | Show amount of members whose display role is this.
-| `online` | `boolean` | Optional | Shows amount of members with this role currently online. |
+| Name           | Type      | Kind     | Description                                              |
+|----------------|-----------|----------|----------------------------------------------------------|
+| `display_role` | `boolean` | Optional | Show amount of members whose display role is this.       |
+| `online`       | `boolean` | Optional | Shows amount of members with this role currently online. |
 
 ## `bots` Sub-Command
 
@@ -32,8 +32,8 @@ This sub-command lists all bots in the server, and when they were added.
 
 ### Arguments
 
-| Name | Type | Kind | Description |
-|------|------|------|-------------|
+| Name             | Type      | Kind     | Description                                       |
+|------------------|-----------|----------|---------------------------------------------------|
 | `render_mention` | `boolean` | Optional | Whether to render mentions or leave them as a tag |
 
 ## `boosts` Sub-Command

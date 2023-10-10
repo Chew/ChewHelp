@@ -1,5 +1,5 @@
 ---
-title: Rory Command
+title: /rory
 description: Breakdown and description for %^rory
 ---
 
@@ -15,9 +15,9 @@ Gets a random or specified Rory image!
 
 ### Arguments
 
-| Name | Type | Kind | Description |
-|------|------|------|-------------|
-| `id` | `Integer` | Optional | The specific Rory picture to get.
+| Name | Type      | Kind     | Description                       |
+|------|-----------|----------|-----------------------------------|
+| `id` | `Integer` | Optional | The specific Rory picture to get. |
 
 ### Permissions
 

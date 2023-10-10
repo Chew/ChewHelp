@@ -35,13 +35,10 @@ If you wish to edit where commands can be ran, who can run them, etc, head to yo
 Here's how to edit permissions:
 
 1) Go to your server settings, then click Integrations.
-
-![step1](https://cdn.chew.pro/imgs/iQcwiI2.png)
+    ![step1](https://cdn.chew.pro/imgs/iQcwiI2.png)
 
 2) Select a command, for example, `/startgame`
-
-![step2](https://cdn.chew.pro/imgs/uOiUnCr.png)
+   ![step2](https://cdn.chew.pro/imgs/uOiUnCr.png)
 
 3) Use the menu to add roles/channels.
-
-![step3](https://cdn.chew.pro/imgs/PvbeVzE.png)
+   ![step3](https://cdn.chew.pro/imgs/PvbeVzE.png)
