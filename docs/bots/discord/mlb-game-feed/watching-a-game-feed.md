@@ -47,4 +47,4 @@ The bot will also post game advisories. These typically include pitching changes
 
 At the end of the game, a final scorecard is sent to the channel, showing the inning breakdown, score/hits/errors/LOB, with a button to view the game on my MLB Stats website.
 
-![scorecard](https://cdn.chew.pro/imgs/kxTXSY6.png)
+![scorecard](https://cdn.chew.pro/imgs/y3P97b6.png)
