@@ -18,3 +18,7 @@ Show NASA's Astronomy Picture of the Day for today, or a specified date
 ## Permissions
 
 Bots need the following permissions: Embed Links.
+
+## Example
+
+![/apod](https://cdn.chew.pro/imgs/bO9F4QW.png)
