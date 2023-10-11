@@ -28,7 +28,7 @@ The goal of Chewbotcca isn't really to be the "best", its goal is to have featur
 
 It's mostly fun commands like [`/roll`](/bots/discord/chewbotcca/commands/roll)ing some dice, getting cats with [`/cat`](/bots/discord/chewbotcca/commands/cat), and more.
 
-However, it can also be used to find information like getting RubyGem information with [`/rubygem`](/bots/discord/commands/rubygem), ironic considering this is a Java bot now.
+However, it can also be used to find information like getting RubyGem information with [`/rubygem`](/bots/discord/chewbotcca/commands/rubygem), ironic considering this is a Java bot now.
 
 It also has powerful server info commands,
 for example, you can run [`/serverinfo bots`](/bots/discord/chewbotcca/commands/serverinfo#bots-sub-command) to find all bots on the server, and when they got added,
