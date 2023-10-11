@@ -96,10 +96,8 @@ const sidebars = {
                     type: 'category',
                     label: "Minecraft Commands",
                     items: [
-                        'bots/discord/chewbotcca/commands/mcissue',
-                        'bots/discord/chewbotcca/commands/mcserver',
-                        'bots/discord/chewbotcca/commands/mcuser',
-                        'bots/discord/chewbotcca/commands/mcwiki',
+                        'bots/discord/chewbotcca/commands/hangar',
+                        'bots/discord/chewbotcca/commands/minecraft',
                         'bots/discord/chewbotcca/commands/modrinth',
                         'bots/discord/chewbotcca/commands/wynncraft',
                     ]
