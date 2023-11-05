@@ -1,11 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type {Options, ThemeConfig} from '@docusaurus/preset-classic';
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: 'ChewHelp',
   tagline: "Knowledgebase for Chew's Projects",
   favicon: 'img/favicon.ico',
@@ -35,7 +35,6 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -50,12 +49,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      }) satisfies Options,
     ],
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -130,15 +128,15 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Chew. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.oneLight,
+        darkTheme: prismThemes.oneDark,
       },
       themeConfig: {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: false,
       }
-    }),
-};
+    }) satisfies ThemeConfig,
+}
 
-module.exports = config;
+export default config;
