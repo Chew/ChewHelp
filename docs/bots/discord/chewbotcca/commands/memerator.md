@@ -5,7 +5,7 @@ description: Breakdown and description for the memerator command for the Chewbot
 
 # `/memerator` Command
 
-no help available
+The Memerator command allows you to get memes and profiles from [Memerator](https://memerator.me).
 
 ## `meme` Subcommand
 
@@ -29,4 +29,4 @@ Gets a profile from Memerator
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command. 
