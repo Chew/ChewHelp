@@ -5,8 +5,12 @@ description: Breakdown and description for the stats command for the Chewbotcca 
 
 # `/stats` Command
 
-Cool stats about the bot!
+Views some basic information about the bot.
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.
+
+## Example
+
+![stats command response](https://cdn.chew.pro/imgs/9oHuMJT.png)

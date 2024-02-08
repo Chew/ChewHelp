@@ -5,8 +5,12 @@ description: Breakdown and description for the trbmb command for the Chewbotcca 
 
 # `/trbmb` Command
 
-Generates a random TRBMB phrase
+Generates a random [TRBMB phrase](https://chew.wiki/view/TRBMB_Phrase_Generator)!
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.
+
+## Example
+
+![trbmb command response](https://cdn.chew.pro/imgs/eZ0nxwo.png)
