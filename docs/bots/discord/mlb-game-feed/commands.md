@@ -13,6 +13,7 @@ The bot has 6 commands as of now:
 - [`/score`](/bots/discord/mlb-game-feed/commands/score) - Shows you the current score privately.
 - [`/setinfo`](/bots/discord/mlb-game-feed/commands/setinfo) - A command to show specific info as a Voice Channel name.
 - [`/config`](/bots/discord/mlb-game-feed/commands/config) - A way to tune the bot to your liking per-channel!
+- [`/standings`](/bots/discord/mlb-game-feed/commands/standings) - Shows the current standings for the provided division.
 
 ## Permissions
 

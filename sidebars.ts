@@ -147,6 +147,7 @@ const sidebars: SidebarsConfig = {
 
     mlbSidebar: [
         'bots/discord/mlb-game-feed',
+        'bots/discord/mlb-game-feed/changelog',
         'bots/discord/mlb-game-feed/watching-a-game-feed',
         'bots/discord/mlb-game-feed/languages',
         'bots/discord/mlb-game-feed/betting',
