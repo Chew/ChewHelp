@@ -9,6 +9,10 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### June 12th, 2024
+
+- Fix a bug with the lineup buttons if there's no probable pitcher.
+
 ### June 9th, 2024
 
 - The lineup buttons now show the probable pitcher and has better formatting.
