@@ -9,6 +9,10 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### June 18th, 2024
+
+- Game Advisories with the same title and description have been compressed to just show the title.
+
 ### June 12th, 2024
 
 - Fix a bug with the lineup buttons if there's no probable pitcher.
