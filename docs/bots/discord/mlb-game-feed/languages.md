@@ -26,7 +26,7 @@ English is the default language of the bot. It is the currently only language th
 Currently, command names and descriptions are translated to Spanish.
 This is done natively via Discord if your language is set to Spanish.
 
-The following is planned for Spanish support in the 2024 season:
+The following is planned for Spanish support:
 
 - Translate all responses to Spanish
 - Support Spanish in game feeds
