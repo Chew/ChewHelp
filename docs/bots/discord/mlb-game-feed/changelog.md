@@ -9,6 +9,18 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### July 18th, 2024
+
+- Revert All Star Game changes
+- Fixed team emoji not showing up in [`/standings`](/bots/discord/mlb-game-feed/commands/standings)
+- Team Emoji now show for all minor leage teams
+- Added a proper fallback unknown emoji
+
+### July 14th, 2024
+
+- Added the "All Star Gamr" to `/plangame` and its records
+- Fixed cancelled games not stopping properly
+
 ### June 23rd, 2024
 
 - Fix today's games sometimes not showing up in [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame)
