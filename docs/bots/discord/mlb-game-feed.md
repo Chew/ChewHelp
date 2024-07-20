@@ -20,5 +20,3 @@ You can learn about watching a game feed [here](/bots/discord/mlb-game-feed/watc
 ## Commands
 
 You can view the commands for the bot [on the commands page](/bots/discord/mlb-game-feed/commands).
-
-Running `/startgame` does not memorize the game, you will have to start it every time a game starts!
