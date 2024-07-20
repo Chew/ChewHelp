@@ -33,8 +33,8 @@ A successful input of the command may look like this:
 
 Below is an example output of the command.
 
-![example](https://cdn.chew.pro/imgs/mbEIK7h.png)
+![example](https://cdn.chew.pro/imgs/tyyQwzX.png)
 
 Below is an example of the event that is created when `event` is set to `true`.
 
-![event](https://cdn.chew.pro/imgs/bE4JRNO.png)
+![event](https://cdn.chew.pro/imgs/9THCsBw.png)
