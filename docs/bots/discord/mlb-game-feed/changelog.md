@@ -9,6 +9,14 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### August 5th, 2024
+
+- Fixes postponed games still being played
+
+### July 27th, 2024
+
+- Fix the wrong team icon showing up.
+
 ### July 18th, 2024
 
 - Revert All Star Game changes
