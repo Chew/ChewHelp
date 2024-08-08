@@ -39,14 +39,19 @@ Looks up a Minecraft user and returns their profile
 
 ## `wiki` Subcommand
 
-Search the Minecraft Wiki
+Search the [Minecraft Wiki](https://minecraft.wiki) for the specified query (case-insensitive).
+Returns the first result (if any) and shows the summary and a picture (if any).
 
 ### Arguments
 
-| Name | Type | Kind | Description |
-| ---- | ---- | ---- | ----------- |
+| Name  | Type   | Kind     | Description                     |
+|-------|--------|----------|---------------------------------|
 | query | String | Required | The query to lookup on the wiki |
+
+### Example
+
+![minecraft wiki command usage](https://cdn.chew.pro/imgs/bdnczGF.png)
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.
