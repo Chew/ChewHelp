@@ -147,6 +147,11 @@ const sidebars: SidebarsConfig = {
 
     mlbSidebar: [
         'bots/discord/mlb-game-feed',
+        {
+            type: 'link',
+            label: "Add To Server",
+            href: 'https://canary.discord.com/api/oauth2/authorize?client_id=987144502374436895&permissions=1067024&scope=bot%20applications.commands'
+        },
         'bots/discord/mlb-game-feed/watching-a-game-feed',
         'bots/discord/mlb-game-feed/languages',
         'bots/discord/mlb-game-feed/betting',

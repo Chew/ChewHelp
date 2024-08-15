@@ -5,13 +5,19 @@ description: Introduction to the MLB Game Feed Discord bot
 
 # MLB-GameFeed-Bot
 
-Add to your server with [this link](https://canary.discord.com/api/oauth2/authorize?client_id=987144502374436895&permissions=1067024&scope=bot%20applications.commands)!
+<a href="https://canary.discord.com/api/oauth2/authorize?client_id=987144502374436895&permissions=1067024&scope=bot%20applications.commands" class="clean-btn button button--primary">Add To Server</a>
+<a href="https://discord.com/application-directory/987144502374436895" class="clean-btn button button--primary">View on Discord's App Directory</a>
+<a href="https://discord.gg/QRUnrg7SMq" class="clean-btn button button--primary">Join Help Server</a>
 
-View the bot on Discord's [app directory](https://discord.com/application-directory/987144502374436895)!
+<hr/>
 
-This bot allows you to view the live play-by-plays for any MLB.com game. This attempts to mimic [gameday](https://mlb.com/gameday)
+The MLB Game Feed Bot allows you to view the live play-by-plays for any MLB.com game. This attempts to mimic [gameday](https://mlb.com/gameday).
 
-To get started, add the bot to your server. Next, wait for a game to be active, finally, type `/startgame` to see active Major League games.
+To get started, add the bot to your server. 
+Next, wait for a game to be active and type [`/startgame`](/bots/discord/mlb-game-feed/commands/startgame) to see active Major League games, 
+or [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame) to see upcoming games.
+
+Additionally, there are other commands to view stats about games, teams, and more!
 
 ## How it Works
 

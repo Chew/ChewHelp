@@ -5,7 +5,7 @@ description: Commands in the MLB Game Feed Discord bot
 
 # Commands
 
-The bot current has 7 commands.
+The bot currently has 7 commands.
 
 ## Game Feed Commands
 
@@ -18,7 +18,7 @@ The bot is primarily a game feed bot, and these commands are used to interact wi
 - [`/setinfo`](/bots/discord/mlb-game-feed/commands/setinfo) - A command to show specific info as a Voice Channel name.
 - [`/config`](/bots/discord/mlb-game-feed/commands/config) - A way to tune the bot to your liking per-channel!
 
-## Other Commands
+## Stats and Info Commands
 
 There are other commands as well, to view standings and other information (soon!)
 
