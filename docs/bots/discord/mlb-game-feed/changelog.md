@@ -9,6 +9,10 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### August 17th, 2024
+
+- Added [`/gameinfo`](/bots/discord/mlb-game-feed/commands/gameinfo) command to show information about a game.
+
 ### August 5th, 2024
 
 - Fixes postponed games still being played

@@ -5,7 +5,7 @@ description: Commands in the MLB Game Feed Discord bot
 
 # Commands
 
-The bot currently has 7 commands.
+The bot currently has 8 commands.
 
 ## Game Feed Commands
 
@@ -23,6 +23,7 @@ The bot is primarily a game feed bot, and these commands are used to interact wi
 There are other commands as well, to view standings and other information (soon!)
 
 - [`/standings`](/bots/discord/mlb-game-feed/commands/standings) - Shows the current standings for the provided division.
+- [`/gameinfo`](/bots/discord/mlb-game-feed/commands/gameinfo) - Shows you information (lineup, boxscore, etc.) about any game for the day.
 
 ## Permissions
 
