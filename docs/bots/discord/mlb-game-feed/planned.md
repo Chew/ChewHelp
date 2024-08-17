@@ -23,13 +23,6 @@ The bot will support creating and updating a schedule channel with a list of gam
 
 [View the progress of it.](https://github.com/Chew/MLB-GameFeed-Bot/pull/24)
 
-## `/gameinfo` Command
-
-The `/gameinfo` command will show you information about any game for the day.
-It will be able to show you boxscore information and more.
-
-[View the progress of it.](https://github.com/Chew/MLB-GameFeed-Bot/pull/25)
-
 ## `/team` Command
 
 The team command will be a one-stop spot for all things about a team.
