@@ -36,6 +36,7 @@ const sidebars: SidebarsConfig = {
     chewbotccaSidebar: [
         'bots/discord/chewbotcca',
         'bots/discord/chewbotcca/unfurl',
+        'bots/discord/chewbotcca/privacy',
         {
             type: 'category',
             label: 'Commands',
