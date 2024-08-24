@@ -16,4 +16,4 @@ Rolls an optionally specified amount of dice
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.

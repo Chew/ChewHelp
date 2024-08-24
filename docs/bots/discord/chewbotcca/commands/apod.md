@@ -17,7 +17,7 @@ Show NASA's Astronomy Picture of the Day for today, or a specified date
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.
 
 ## Example
 

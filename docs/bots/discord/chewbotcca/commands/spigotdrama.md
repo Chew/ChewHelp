@@ -9,4 +9,4 @@ Generates some random Spigot drama
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.

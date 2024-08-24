@@ -24,4 +24,4 @@ Changes information associated with this server's settings
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.

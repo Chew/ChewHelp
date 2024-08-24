@@ -15,4 +15,4 @@ Returns some detailed information about a specified command
 
 ## Permissions
 
-Bots need the following permissions: Embed Links.
+The bot does not need any special permissions to run this command.
