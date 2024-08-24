@@ -53,7 +53,6 @@ const sidebars: SidebarsConfig = {
                         'bots/discord/chewbotcca/commands/help',
                         'bots/discord/chewbotcca/commands/invite',
                         'bots/discord/chewbotcca/commands/ping',
-                        'bots/discord/chewbotcca/commands/privacy',
                         'bots/discord/chewbotcca/commands/stats',
                     ]
                 },

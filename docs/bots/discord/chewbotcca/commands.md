@@ -42,7 +42,6 @@ These commands relate to information about the bot, like stats and basic info.
 | [/invite](/bots/discord/chewbotcca/commands/invite)     | None              | Get a link to invite the bot to your server                                                  |
 | [/ping](/bots/discord/chewbotcca/commands/ping)         | None              | Ping the bot to check its heart rate. Is it ok? If it doesn't respond, it might not be okay. |
 | [/stats](/bots/discord/chewbotcca/commands/stats)       | None              | Get some cool, interesting, and very epic stats about the bot                                |
-| [/privacy](/bots/discord/chewbotcca/commands/privacy)   | None              | Returns a link to the Chewbotcca Discord Bot privacy policy.                                 |
 
 ### Fun Commands
 
