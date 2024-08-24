@@ -11,19 +11,19 @@ The bot currently has 8 commands.
 
 The bot is primarily a game feed bot, and these commands are used to interact with the game feed.
 
-- [`/plangame`](/bots/discord/mlb-game-feed/commands/plangame) - Plans a game by sending an embed of the upcoming game. Optionally create a thread or a scheduled event! Select a team, then a date, shows up to 25 upcoming games. Optionally pass a sport to find minor league games!
-- [`/score`](/bots/discord/mlb-game-feed/commands/score) - Shows you the current score privately.
-- [`/startgame [game]`](/bots/discord/mlb-game-feed/commands/startgame) - Starts a game. Select a game from the list, but any gamePk is acceptable. You can grab this from sites like https://mlb.chew.pw to show minor league games. If no games show up, there are no active Major League games.
-- [`/stopgame`](/bots/discord/mlb-game-feed/commands/stopgame) - Stops the currently running game.
-- [`/setinfo`](/bots/discord/mlb-game-feed/commands/setinfo) - A command to show specific info as a Voice Channel name.
-- [`/config`](/bots/discord/mlb-game-feed/commands/config) - A way to tune the bot to your liking per-channel!
+- [`/plangame`](./commands/plangame.md) - Plans a game by sending an embed of the upcoming game. Optionally create a thread or a scheduled event! Select a team, then a date, shows up to 25 upcoming games. Optionally pass a sport to find minor league games!
+- [`/score`](./commands/score.md) - Shows you the current score privately.
+- [`/startgame [game]`](./commands/startgame.md) - Starts a game. Select a game from the list, but any gamePk is acceptable. You can grab this from sites like https://mlb.chew.pw to show minor league games. If no games show up, there are no active Major League games.
+- [`/stopgame`](./commands/stopgame.md) - Stops the currently running game.
+- [`/setinfo`](./commands/setinfo.md) - A command to show specific info as a Voice Channel name.
+- [`/config`](./commands/config.md) - A way to tune the bot to your liking per-channel!
 
 ## Stats and Info Commands
 
 There are other commands as well, to view standings and other information (soon!)
 
-- [`/standings`](/bots/discord/mlb-game-feed/commands/standings) - Shows the current standings for the provided division.
-- [`/gameinfo`](/bots/discord/mlb-game-feed/commands/gameinfo) - Shows you information (lineup, boxscore, etc.) about any game for the day.
+- [`/standings`](./commands/standings.md) - Shows the current standings for the provided division.
+- [`/gameinfo`](./commands/gameinfo.mdx) - Shows you information (lineup, boxscore, etc.) about any game for the day.
 
 ## Permissions
 
@@ -49,7 +49,7 @@ Here's how to edit permissions:
     ![step1](https://cdn.chew.pro/imgs/iQcwiI2.png)
 
 2) Select a command, for example, `/startgame`
-   ![step2](https://cdn.chew.pro/imgs/uOiUnCr.png)
+   ![step2](https://cdn.chew.pro/imgs/DuHZCsm.png)
 
 3) Use the menu to add roles/channels.
    ![step3](https://cdn.chew.pro/imgs/PvbeVzE.png)
