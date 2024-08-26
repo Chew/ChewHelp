@@ -5,8 +5,9 @@ description: Breakdown and description for the help command for the Chewbotcca D
 
 # `/help` Command
 
-Get Help with the bot
+Shows some basic information about the bot.
+It has links to this website, the [privacy policy](../privacy.md), the support server, an invite link, and a way to run [`/stats`](./stats.md).
 
-## Permissions
+## Example
 
-The bot does not need any special permissions to run this command.
+![img](https://cdn.chew.pro/imgs/fJOPngR.png)
