@@ -44,6 +44,11 @@ This sub-command shows the channel type breakdown of the server. It shows more d
 
 This sub-command shows upcoming member milestones based on a linear average. It takes the current amount of members, divides it by the age of the server in seconds, then figures out when the number will reach 25, 100, etc.
 
+## `member` Sub-Command
+
+The member sub-command shows allows you to put in a member number to see who was that person to join the server.
+E.g. `/serverinfo member 1` would show the first person to join the server.
+
 ## `memberstats` Sub-Command
 
 The member stats sub-command shows when there was most member joins in a day (assuming the members are all still on the server), and the largest slump between new joins.
