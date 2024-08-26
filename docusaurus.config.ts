@@ -55,6 +55,11 @@ const config: Config = {
 
   themeConfig:
     ({
+      algolia: {
+        appId: "K6KGHD7RX3",
+        apiKey: "3d22310ad003797083b8d883e1378153",
+        indexName: "help-chew"
+      },
       navbar: {
         title: "Chew's Projects",
         logo: {
