@@ -9,6 +9,11 @@ Below is a list of changes to the bot, with most recent changes at the top.
 
 ## 2024 Season
 
+### August 27th, 2024
+
+- Added [`/config server`](./commands/config.md#config-server) to set the team for the server.
+- Merged `/config channel get` and `/config channel set` into just `/config channel`.
+
 ### August 17th, 2024
 
 - Added [`/gameinfo`](/bots/discord/mlb-game-feed/commands/gameinfo) command to show information about a game.
