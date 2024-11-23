@@ -2,6 +2,7 @@
 title: /plangame Command
 description: Description, usage, and examples for the /plangame command for the MLB Game Feed Discord bot.
 ---
+import { PlanGameCommand } from "../../../../../src/components/mlb/PlanGameCommand";
 
 # `/plangame` Command
 
@@ -33,7 +34,7 @@ A successful input of the command may look like this:
 
 Below is an example output of the command.
 
-![example](https://cdn.chew.pro/imgs/tyyQwzX.png)
+<PlanGameCommand />
 
 Below is an example of the event that is created when `event` is set to `true`.
 
