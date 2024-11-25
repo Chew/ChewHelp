@@ -32,6 +32,13 @@ const config: Config = {
     locales: ['en'],
   },
 
+  scripts: [
+    {
+      src: '/discord-components.config.js',
+      async: false
+    }
+  ],
+
   presets: [
     [
       'classic',
