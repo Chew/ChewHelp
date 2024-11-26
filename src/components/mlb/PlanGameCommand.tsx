@@ -35,7 +35,7 @@ export const PlanGameCommand = () => {
                             Orioles - MASN 2<br />
                             Rangers - BSSW
                         </DiscordEmbedField>
-                        <DiscordEmbedField fieldTitle="📻 Listen" inline={true} inlineIndex={1}>
+                        <DiscordEmbedField fieldTitle="📻 Listen" inlineIndex={undefined}>
                             Orioles - 98 Rock FM/HD2 97.9, WBAL NewsRadio AM/FM<br />
                             Rangers - 105.3 The Fan, KFLC 1270
                         </DiscordEmbedField>
