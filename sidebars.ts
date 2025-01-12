@@ -171,6 +171,19 @@ const sidebars: SidebarsConfig = {
                 }
             ]
         }
+    ],
+
+    rorySidebar: [
+        'servers/discord/rory/index',
+        'servers/discord/rory/rules',
+        'servers/discord/rory/faq',
+        'servers/discord/rory/ranks',
+        'servers/discord/rory/modes',
+        {
+            type: 'link',
+            label: "Join Server",
+            href: 'https://discord.gg/0kYlxgkh65QhZAjm'
+        },
     ]
 };
 

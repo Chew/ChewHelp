@@ -94,6 +94,16 @@ const config: Config = {
             }]
           },
           {
+            type: 'dropdown',
+            sidebarId: 'discordServers',
+            position: 'left',
+            label: 'Discord Servers',
+            items: [{
+              label: 'Rory & Lorelai Fanclub',
+              href: '/servers/discord/rory',
+            }]
+          },
+          {
             href: 'https://github.com/Chew/ChewHelp',
             label: 'GitHub',
             position: 'right',

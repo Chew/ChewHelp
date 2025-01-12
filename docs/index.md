@@ -11,5 +11,11 @@ The wiki pages are backed up to [Chew/ChewHelp on GitHub](https://github.com/Che
 
 ## Current Projects Here
 
+### Discord Bots
+
 - [MLB Game Feed Discord Bot](/bots/discord/mlb-game-feed)
 - [Chewbotcca Discord Bot](/bots/discord/chewbotcca)
+
+### Discord Servers
+
+- [Rory & Lorelai Fanclub :3](./servers/discord/rory)
