@@ -64,9 +64,7 @@ Commands that send back information about a user, bot, channel, role, ruby gem, 
 | [/channelinfo](commands/channelinfo.md) | [optional: channel id or mention]                             | Gets basic information about a channel.                                                      |
 | [/discrim](commands/discrim.md)         | [optional: discrim to look up]                                | Looks through the user cache to find users with the specified (if none, your) discriminator. |
 | [/info](commands/info.md)               | \<command\>                                                   | Gets information about a specific command                                                    |
-| [/lastfm](commands/lastfm.md)           | \<username\>                                                  | Gets last played \(or currently playing) song information for the specified last.fm user.    |
 | [/roleinfo](commands/roleinfo.md)       | \<role mention or name or id\>                                | Gets information about a role! Add "members" to view role members.                           |
-| [/rubygem](commands/rubygem.md)         | \<gem name\>                                                  | Gets information for the specific ruby gem.                                                  |
 | [/serverinfo](commands/serverinfo.md)   | \[boosts,bots,channels,member \<position\>,roles,milestones\] | Gets basic information for the server                                                        |
 | [/userinfo](commands/userinfo.md)       | [optional: mention]                                           | Gets user info for you! Mention a user to get their info.                                    |
 | [/userstats](commands/userstats.md)     | None                                                          | Finds amount of users with all user flags (excluding Nitro) and sorts them.                  |
@@ -94,8 +92,10 @@ Commands that query specific services (e.g. YouTube, GitHub, etc.) for informati
 | [/github issue](commands/github.md#issue-subcommand)           | \<repo\> \<issue num\>     | Gets an issue or pull request from the specified GitHub repository.                       |
 | [/github user](commands/github.md#user-subcommand)             | \<user or org name\>       | Gets a user or org's profile from GitHub                                                  |
 | [/github repository](commands/github.md#repository-subcommand) | \<repo path\>              | Gets information about a specific GitHub repo. For example, Chewbotcca/Discord            |
+| [/lastfm](commands/lastfm.md)                                  | \<username\>               | Gets last played \(or currently playing) song information for the specified last.fm user. |
 | [/memerator](commands/memerator.md)                            | \<meme or user\> \<query\> | Finds a Memerator.me meme or user based on query.                                         |
 | [/ocr](commands/ocr.md)                                        | Attach Image or URL        | Runs an OCR which finds texts on a given image and returns the result. 1 minute cooldown! |
+| [/packages rubygem](commands/packages.md#rubygem-subcommand)   | \<gem name\>               | Gets information for the specific ruby gem.                                               |
 | [/reddit](commands/reddit.md)                                  | \<subreddit\> [post num]   | Grabs a post from a subreddit and links it. Leave both blank for a random post?           |
 | [/youtube](commands/youtube.md)                                | \<search term\>            | Searches YouTube for a video and posts cool stats about it!                               |
 

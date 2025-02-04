@@ -85,9 +85,7 @@ const sidebars: SidebarsConfig = {
                         'bots/discord/chewbotcca/commands/channelinfo',
                         'bots/discord/chewbotcca/commands/discrim',
                         'bots/discord/chewbotcca/commands/info',
-                        'bots/discord/chewbotcca/commands/lastfm',
                         'bots/discord/chewbotcca/commands/roleinfo',
-                        'bots/discord/chewbotcca/commands/rubygem',
                         'bots/discord/chewbotcca/commands/serverinfo',
                         'bots/discord/chewbotcca/commands/userinfo',
                         'bots/discord/chewbotcca/commands/userstats',
@@ -108,8 +106,10 @@ const sidebars: SidebarsConfig = {
                     label: "Services Commands",
                     items: [
                         'bots/discord/chewbotcca/commands/github',
+                        'bots/discord/chewbotcca/commands/lastfm',
                         'bots/discord/chewbotcca/commands/memerator',
                         'bots/discord/chewbotcca/commands/ocr',
+                        'bots/discord/chewbotcca/commands/packages',
                         'bots/discord/chewbotcca/commands/reddit',
                         'bots/discord/chewbotcca/commands/youtube',
                     ]
