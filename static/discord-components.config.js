@@ -9,8 +9,13 @@ window.$discordMessage = {
         },
         chew: {
             author: 'olivia // chew',
-            avatar: 'https://cdn.discordapp.com/avatars/476488167042580481/c44344992739a412f2c37757dad9b12e.png?size=2048',
             roleColor: '#e7a1e7'
+        },
+        chewbotcca: {
+            author: 'Chewbotcca',
+            avatar: 'https://cdn.discordapp.com/avatars/604362556668248095/610c99e1c4a3b24f6d212574e60c7d87.png?size=2048',
+            bot: true,
+            verified: true,
         }
     },
     emojis: {
