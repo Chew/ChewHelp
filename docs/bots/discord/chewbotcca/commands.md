@@ -110,10 +110,9 @@ Commands to manage your settings.
 
 ### Utility Commands
 
-Commands that are useful for various things, like defining words, quoting messages, and more.
+Commands that are useful for various things, like defining words, and more.
 
 | Command                       | Args                                  | Description                                                                                                                                           |
 |-------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [/define](commands/define.md) | None                                  | Defines a word via a dictionary. Returns the first result, may not be the best result, but definitely a result nonetheless.                           |
-| [/quote](commands/quote.md)   | \<message id\> [optional: channel id] | Quotes a message, puts the message and provides a link to jump to it. Useful for quoting messages outside of the specific server.                     |
 | [/urban](commands/urban.md)   | \<word to search\>                    | Like define, but instead of defining with a real dictionary, it queries the slightly edgier Urban dictionary. As a result, this command is NSFW only. |
