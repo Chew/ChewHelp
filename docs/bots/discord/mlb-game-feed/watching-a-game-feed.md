@@ -48,3 +48,24 @@ The bot will also post game advisories. These typically include pitching changes
 At the end of the game, a final scorecard is sent to the channel, showing the inning breakdown, score/hits/errors/LOB, with a button to view the game on my MLB Stats website.
 
 ![scorecard](https://cdn.chew.pro/imgs/y3P97b6.png)
+
+## Watching Non-Major League Games
+
+The bot also supports watching Minor League games, as well as special events like the World Baseball Classic.
+
+To watch these, you must first type [`/plangame`](./commands/plangame.md) and navigate to the "sport" option (on desktop, you have to tab over to them).
+Selecting that will show you all the other options.
+
+![sport list](https://cdn.chew.pro/imgs/nI16r9t.png)
+
+:::note
+
+World Baseball Classic is under the "International Baseball" sport.
+
+:::
+
+From there, go back to the "Team" input and type in the name of the team you want. Then, select the team and date like normal.
+
+![team](https://cdn.chew.pro/imgs/eDuk1UY.png)
+
+![date](https://cdn.chew.pro/imgs/6m48wu2.png)
