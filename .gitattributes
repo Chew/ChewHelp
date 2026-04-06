@@ -1,5 +1,5 @@
 * text=auto
 *.md text eol=lf
 
-# Makes markdown files detectable by GitHub as markdown
-*.md linguist-detectable
+# Fixes languages listing on GitHub
+*.md linguist-detectable=true
