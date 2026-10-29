@@ -58,16 +58,14 @@ Fun commands! Silly commands like 8ball, coinflip, and, of course, Rory!!
 
 Commands that send back information about a user, bot, channel, role, ruby gem, or more!
 
-| Command                                 | Args                                                          | Description                                                                                  |
-|-----------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [/botinfo](commands/botinfo.md)         | \<bot mention\> [list]                                        | Gets bot information from an optionally specified bot list.                                  |
-| [/channelinfo](commands/channelinfo.md) | [optional: channel id or mention]                             | Gets basic information about a channel.                                                      |
-| [/discrim](commands/discrim.md)         | [optional: discrim to look up]                                | Looks through the user cache to find users with the specified (if none, your) discriminator. |
-| [/info](commands/info.md)               | \<command\>                                                   | Gets information about a specific command                                                    |
-| [/roleinfo](commands/roleinfo.md)       | \<role mention or name or id\>                                | Gets information about a role! Add "members" to view role members.                           |
-| [/serverinfo](commands/serverinfo.md)   | \[boosts,bots,channels,member \<position\>,roles,milestones\] | Gets basic information for the server                                                        |
-| [/userinfo](commands/userinfo.md)       | [optional: mention]                                           | Gets user info for you! Mention a user to get their info.                                    |
-| [/userstats](commands/userstats.md)     | None                                                          | Finds amount of users with all user flags (excluding Nitro) and sorts them.                  |
+| Command                                 | Args                                                          | Description                                                        |
+|-----------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------|
+| [/botinfo](commands/botinfo.md)         | \<bot mention\> [list]                                        | Gets bot information from an optionally specified bot list.        |
+| [/channelinfo](commands/channelinfo.md) | [optional: channel id or mention]                             | Gets basic information about a channel.                            |
+| [/info](commands/info.md)               | \<command\>                                                   | Gets information about a specific command                          |
+| [/roleinfo](commands/roleinfo.md)       | \<role mention or name or id\>                                | Gets information about a role! Add "members" to view role members. |
+| [/serverinfo](commands/serverinfo.md)   | \[boosts,bots,channels,member \<position\>,roles,milestones\] | Gets basic information for the server                              |
+| [/userinfo](commands/userinfo.md)       | [optional: mention]                                           | Gets user info for you! Mention a user to get their info.          |
 
 ### Minecraft Commands
 
