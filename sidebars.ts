@@ -97,12 +97,10 @@ const sidebars: SidebarsConfig = {
                     items: [
                         'bots/discord/chewbotcca/commands/botinfo',
                         'bots/discord/chewbotcca/commands/channelinfo',
-                        'bots/discord/chewbotcca/commands/discrim',
                         'bots/discord/chewbotcca/commands/info',
                         'bots/discord/chewbotcca/commands/roleinfo',
                         'bots/discord/chewbotcca/commands/serverinfo',
                         'bots/discord/chewbotcca/commands/userinfo',
-                        'bots/discord/chewbotcca/commands/userstats',
                     ]
                 },
                 {
